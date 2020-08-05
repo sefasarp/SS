@@ -9,4 +9,3 @@ This project is an voice reference assistant designed for people who have diffic
 _Türkçe sesli iş-staj başvuru asistanı_
 
 Bilgisayar kullanırken zorluk yaşayan kişiler için tasarlanmış sesli başvuru asistanıdır. Verilen bilgiler sistemdeki gerçek meslek ve isimlerle uyuşmadığı sürece hata verecektir. Gürültülü ortamda zor algılama gibi bazı sorunlar mevcut. Yeni kod yapılarıyla sorun giderildiğinde projeyi güncelleyeceğim. Ayrıca şunu da belirtmek isterim ki projenin kod yapısı temel ve kolay bir yapıdadır.
-
